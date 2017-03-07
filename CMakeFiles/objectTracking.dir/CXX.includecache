@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/Users/borourke/Projects/object_tracking_v1/objectTracker.hpp
+
 /Users/borourke/Projects/object_tracking_v1/objectTracking.cpp
 sstream
 -
@@ -21,6 +23,12 @@ opencv2/opencv.hpp
 -
 vector
 -
+shapes/circle.hpp
+/Users/borourke/Projects/object_tracking_v1/shapes/circle.hpp
+objectTracker.hpp
+/Users/borourke/Projects/object_tracking_v1/objectTracker.hpp
+
+/Users/borourke/Projects/object_tracking_v1/shapes/circle.hpp
 
 /usr/local/include/opencv/cxcore.h
 opencv2/core/core_c.h
